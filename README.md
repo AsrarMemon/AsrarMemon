@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Asrar Memon
 
-<!--
-**AsrarMemon/AsrarMemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer | React | Angular | Node.js | AWS
 
-Here are some ideas to get you started:
+8+ years of experience building SaaS products, dashboards,
+enterprise applications and scalable cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+
+- React.js
+- Angular
+- TypeScript
+- Node.js
+- GraphQL
+- AWS
+- Redux
+- TailwindCSS
+- PostgreSQL
+- MongoDB
+
+## Featured Projects
+
+### Tax Portal
+Multi-tenant tax preparation platform.
+
+Tech:
+React, Node.js, PostgreSQL, AWS
+
+### Healthcare Platform
+Appointment and booking platform.
+
+Tech:
+Angular, GraphQL, AWS
+
+## Live Projects
+
+- https://thebreakfast.co
+- https://app.mytaxprepoffice.com
+- https://mytaxportal.online
+- https://www.herespa.com
+
+## Contact
+
+LinkedIn
+Upwork
+Portfolio
