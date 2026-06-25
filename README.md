@@ -2,7 +2,7 @@
 
 Senior Full Stack Developer | React | Angular | Node.js | AWS
 
-8+ years of experience building SaaS products, dashboards,
+9+ years of experience building SaaS products, dashboards,
 enterprise applications and scalable cloud solutions.
 
 ## Core Expertise
@@ -39,8 +39,3 @@ Angular, GraphQL, AWS
 - https://mytaxportal.online
 - https://www.herespa.com
 
-## Contact
-
-LinkedIn
-Upwork
-Portfolio
